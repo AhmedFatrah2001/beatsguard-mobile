@@ -24,7 +24,7 @@ BeatsGuard is a Flutter-based application designed for monitoring real-time heal
 ## Screenshots
 ![Home screen](home.jpeg)
 ![Stats screen](stats.jpeg)
-![Measurements history screen](measurements-history.jpeg.jpeg)
+![Measurements history screen](measurements-history.jpeg)
 ![Dr.bot chatbot screen](drbot.jpeg)
 ## Tech Stack
 
